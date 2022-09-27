@@ -1,0 +1,19 @@
+.Bff{
+  width: 1000px;
+  height: 1000px;
+}
+
+body{background-color:#937DC2;
+text-align: center;
+    }
+.Face{
+height: 100;
+width: 100;
+border-style: solid;
+border-color: #18978F;
+border-width: 30px;
+border-radius: 180px;
+/* height: 1100px;
+width: 990px; */
+    }
+p{font-size: 25px;}
